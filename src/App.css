@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+/* .container { */
+  /* background-image: url('C:\Users\firoj\OneDrive\Desktop\React\my-app\src\components\images\pexels-eberhard-grossgasteiger-691668.jpg'); */
+  /* background-size: 100; */
+  
+  /* padding: 2% 3%; */
+  /* Other styles you want to apply */
+/* } */
+/*  */
+.container{
+  height: 100%
+}
